@@ -9,11 +9,10 @@ Hill Climbing:
 of this input file to run hill climbing for any other input.
 
 To run the above programs:
-1. Unzip the BestVertexCoverSearch.zip to BestVertexCoverSearch folder.
-2. cd BestVertexCoverSearch
-3. Replace the contents of the respective input files in BestVertexCoverSearch/src/input_files to change the input on which either of the 
-algorithms are run. There mustn't be any trailing spaces or newline characters throughout the input including the end of the input in order
-for the input to be read correctly. May lead to NoSuchElementException otherwise.
+1. Unzip the BestVertexCoverSearch-master.zip to BestVertexCoverSearch-master folder.
+2. cd BestVertexCoverSearch-master
+3. Replace the contents of the respective input files in BestVertexCoverSearch-master/src/input_files to change the input on which either of the 
+algorithms are run.
 
 Commands to run the above programs on Windows:
 
