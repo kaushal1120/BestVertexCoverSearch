@@ -10,8 +10,8 @@ of this input file to run hill climbing for any other input.
 
 To run the above programs:
 1. Unzip the BestVertexCoverSearch-master.zip to BestVertexCoverSearch-master folder.
-2. cd BestVertexCoverSearch-master
-3. Replace the contents of the respective input files in BestVertexCoverSearch-master/src/input_files to change the input on which either of the 
+2. cd BestVertexCoverSearch-master/BestVertexCoverSearch-master
+3. Replace the contents of the respective input files in src/input_files to change the input on which either of the
 algorithms are run.
 
 Commands to run the above programs on Windows:
