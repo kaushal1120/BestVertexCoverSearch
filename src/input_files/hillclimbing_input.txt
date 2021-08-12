@@ -1,0 +1,15 @@
+12 V 2
+A 3
+B 8
+C 1
+D 2
+E 7
+F 4
+
+A B
+A D
+B C
+B E
+C F
+D E
+E F
