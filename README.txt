@@ -1,16 +1,16 @@
 Iterative Deepening:
 1. The main function in java file IterativeDeepening.java in package ai.bestvertexcover.search runs the Iterative Deepening algorithm.
-2. The input for iterative deepening is defined in BestVertexCoverSearch/src/input_files/iterativedeepening_input.txt. Replace the contents
+2. The input for iterative deepening is defined in BestVertexCoverSearch-master/src/input_files/iterativedeepening_input.txt. Replace the contents
 of this input file to run iterative deepening for any other input.
 
 Hill Climbing:
 1. The main function in java file HillClimbing.java in package ai.bestvertexcover.search runs the Hill Climbing algorithm.
-2. The input for hill climbing is defined in BestVertexCoverSearch/src/input_files/hillclimbing_input.txt. Replace the contents
+2. The input for hill climbing is defined in BestVertexCoverSearch-master/src/input_files/hillclimbing_input.txt. Replace the contents
 of this input file to run hill climbing for any other input.
 
 To run the above programs:
-1. Unzip the BestVertexCoverSearch-master.zip to BestVertexCoverSearch-master folder.
-2. cd BestVertexCoverSearch-master/BestVertexCoverSearch-master
+1. Unzip BestVertexCoverSearch-master.zip.
+2. cd BestVertexCoverSearch-master
 3. Replace the contents of the respective input files in src/input_files to change the input on which either of the
 algorithms are run.
 
